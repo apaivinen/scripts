@@ -8,6 +8,8 @@ First bash script for ages. This can be done differently (easier) but *it is wha
 3. cleanup "old" TAR-files
 4. unmount external drive 
 
->**warning**  
->**The Importance of Unmounting**  
->Failure to unmount before disconnecting the device can result in loss of data and/or a corrupted file system.  
+
+> **Warning**
+> The Importance of Unmounting  
+> Failure to unmount before disconnecting the device can result in loss of data and/or a corrupted file system.  
+
