@@ -7,9 +7,8 @@ Import-Module -Name Terminal-Icons
 import-module oh-my-posh
 import-module psreadline
 
-
 #configs
-oh-my-posh --init --shell pwsh --config 'F:\git\powershell\profile\oh-my-posh-profile.json' | invoke-expression
+oh-my-posh --init --shell pwsh --config 'F:\git\scripts\Powershell\Profiles\Powershell\oh-my-posh-profile.json' | invoke-expression
 
 Set-PSReadLineOption -PredictionSource History
 set-PSReadLineOption -PredictionViewStyle ListView
