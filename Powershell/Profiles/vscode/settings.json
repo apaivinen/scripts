@@ -1,0 +1,38 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.minimap.enabled": true,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.wordWrap": "on",
+    "editor.renderWhitespace": "boundary",
+    "workbench.colorCustomizations": {
+        "editorWhitespace.foreground": "#00ff40"
+    },
+    "workbench.colorTheme": "Night Owl",
+    "workbench.editor.enablePreview": false,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "editor.guides.bracketPairsHorizontal": true,
+    "editor.guides.highlightActiveIndentation": true,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorStyle": "block",
+    "editor.formatOnType": true,
+    "editor.fontFamily": "'Fira Code'", //'CaskaydiaCove Nerd Font', Consolas, 'Courier New', monospace
+    //"editor.fontLigatures": true,
+    "editor.fontLigatures": "'calt', 'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum','cv14'",
+    "editor.fontWeight": "400",
+
+    "[plaintext]": {
+        "editor.language.colorizedBracketPairs": [
+            ["(",")"],
+            ["[","]"],
+            ["{","}"],
+            ["begin","end"]
+        ]
+    },
+    "security.workspace.trust.untrustedFiles": "newWindow",
+    "explorer.confirmDelete": false,
+    "git.confirmSync": false,
+    "window.zoomLevel": 2,
+    "git.enableSmartCommit": true
+}
