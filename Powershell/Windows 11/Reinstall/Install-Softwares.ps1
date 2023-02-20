@@ -148,6 +148,7 @@ begin {
                     @{name = "OBS"; id = "OBSProject.OBSStudio"; source = "winget" },
                     @{name = "Plex"; id = "Plex.Plex"; source = "winget" },
                     @{name = "Microsoft Remote Desktop"; id = "9WZDNCRFJ3PS "; source = "msstore" },
+                    @{name = "Signal"; id = "OpenWhisperSystems.Signal"; source = "winget" },
                     @{name = "Spotify"; id = "Spotify.Spotify"; source = "winget" },
                     @{name = "Steam"; id = "Valve.Steam"; source = "winget" },
                     @{name = "Steelseries"; id = "SteelSeries.GG"; source = "winget" },
