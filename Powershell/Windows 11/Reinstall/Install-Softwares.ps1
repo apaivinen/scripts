@@ -151,14 +151,12 @@ begin {
                     @{name = "Spotify"; id = "Spotify.Spotify"; source = "winget" },
                     @{name = "Steam"; id = "Valve.Steam"; source = "winget" },
                     @{name = "Steelseries"; id = "SteelSeries.GG"; source = "winget" },
+                    @{name = "Telegram"; id = "Telegram.TelegramDesktop"; source = "winget" },
                     @{name = "VeraCrypt"; id = "IDRIX.VeraCrypt"; source = "winget" },
                     @{name = "VLC"; id = "VideoLAN.VLC"; source = "winget" },
                     @{name = "WhatsApp"; id = "WhatsApp.WhatsApp"; source = "winget" },
                     @{name = "WireShark"; id = "WiresharkFoundation.Wireshark"; source = "winget" }
                     @{name = "Oh My Posh"; id = "JanDeDobbeleer.OhMyPosh"; source = "winget" }
-
-                    
-
           ) # End of $apps
 
           #Progessbar configs
